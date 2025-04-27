@@ -76,3 +76,7 @@ This doctorate-level public health project uses data from the 2021 Behavioral Ri
 📂 Portfolio: [github.com/janajames15](https://github.com/janajames15)  
 📧 Email: [janajames15@gmail.com]  
 🔗 LinkedIn: [https://www.linkedin.com/in/jana-james-b0422663/](https://www.linkedin.com/in/jana-james-b0422663/)
+
+## 📜 License
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+See the [LICENSE](LICENSE) file for details. 
