@@ -58,10 +58,14 @@ This doctorate-level public health project uses data from the 2021 Behavioral Ri
    - `03_logistic_models.R`
 4. Outputs will appear in `/docs/` folder
 
-## 📚 References 
-- CDC. (2021). Behavioral Risk Factor Surveillance System.
-- Aune et al. (2017). Fruit and vegetable intake and the risk of cardiovascular disease.
-- Tian & Meng. (2019). Physical activity and CHD prevention: Meta-analysis.
+## 📚 References
+1. Aune, D., Giovannucci, E., Boffetta, P., Fadnes, L. T., Keum, N., Norat, T., Greenwood, D. C., Riboli, E., Vatten, L. J., & Tonstad, S. (2017). Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality—a systematic review and dose-response meta-analysis of prospective studies. *International Journal of Epidemiology*, 46(3), 1029–1056. [https://doi.org/10.1093/ije/dyw319](https://doi.org/10.1093/ije/dyw319)
+2. Centers for Disease Control and Prevention. (2022, October 14). *Heart disease facts*. Centers for Disease Control & Prevention. Retrieved April 2, 2023, from [https://www.cdc.gov/heartdisease/facts.htm](https://www.cdc.gov/heartdisease/facts.htm)
+3. Centers for Disease Control and Prevention. (2021, September 30). *Behavioral Risk Factor Surveillance System - Survey Data & Documentation*. Retrieved April 2, 2023, from [https://www.cdc.gov/brfss/data_documentation/index.htm#print](https://www.cdc.gov/brfss/data_documentation/index.htm#print)
+4. Centers for Disease Control and Prevention. (2022, June 20). *Diabetes and your heart*. Retrieved April 2, 2023, from [https://www.cdc.gov/diabetes/library/features/diabetes-and-heart.html#:~:text=Over%20time%2C%20high%20blood%20sugar,and%20can%20damage%20artery%20walls](https://www.cdc.gov/diabetes/library/features/diabetes-and-heart.html#:~:text=Over%20time%2C%20high%20blood%20sugar,and%20can%20damage%20artery%20walls)
+5. Dinh, A., Miertschin, S., Young, A., & Mohanty, S. D. (2019). A data-driven approach to predicting diabetes and cardiovascular disease with machine learning. *BMC Medical Informatics and Decision Making*, 19(1), 211. [https://doi.org/10.1186/s12911-019-0918-5](https://doi.org/10.1186/s12911-019-0918-5)
+6. Tian, D., & Meng, J. (2019). Exercise for Prevention and Relief of Cardiovascular Disease: Prognoses, Mechanisms, and Approaches. *Oxidative Medicine and Cellular Longevity*, 2019, 3756750. [https://doi.org/10.1155/2019/3756750](https://doi.org/10.1155/2019/3756750)
+7. Yang, G. R., Dye, T. D., & Li, D. (2019). Association between diabetes, metabolic syndrome and heart attack in US adults: A cross-sectional analysis using the Behavioral Risk Factor Surveillance System 2015. *BMJ Open*, 9(9), e022990. [https://doi.org/10.1136/bmjopen-2018-022990](https://doi.org/10.1136/bmjopen-2018-022990)
 
 ## 💡 Future Directions
 - Explore scaled variables for nutrition and activity frequency
