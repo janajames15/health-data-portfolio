@@ -1,5 +1,8 @@
 # 🩺 Coronary Heart Disease and Health Behaviors: A BRFSS Data Study
 
+![R](https://img.shields.io/badge/R-Data%20Science-blue?logo=r)
+![Status](https://img.shields.io/badge/status-Complete-success)
+
 ## 🔍 Overview
 This doctorate-level public health project uses data from the 2021 Behavioral Risk Factor Surveillance System (BRFSS) to examine the association of physical activity, fruit and vegetable intake, and diabetes with coronary heart disease (CHD) in U.S. adults aged 18–44.
 
