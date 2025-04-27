@@ -40,7 +40,14 @@ This doctorate-level public health project uses data from the 2021 Behavioral Ri
 
 ## 🖼️ Visuals & Figures
 *Figures and plots coming soon to `/docs/figures/`*
-![Logistic regression output showing CHD risk vs. physical activity](docs/figures/figure1_CHD_exercise.png)
+
+![Table 1. Variables and Methods](docs/figures/Table%201.%20Variables%20and%20Methods.png)
+![Figure 1. Odds Ratio Table for Coronary Heart Disease in NonSmokers](docs/figures/Figure%201.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmokers.png)
+![Figure 2. Odds Ratio Table for Coronary Heart Disease in NonSmokers without Diabetes](docs/figures/Figure%202.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Diseasein%20NonSmokers%20without%20Diabetes.png)
+![Figure 3. Odds Ratio Table for Coronary Heart Disease in NonSmokers with Diabetes](docs/figures/Figure%203.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmokers%20with%20Diabetes.png)
+![Figure 4. Odds Ratio Table for Coronary Heart Disease in NonSmoking nonDiabetics with a less than Daily Nutritional Index](docs/figures/Figure%204.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmoking%20nonDiabetics%20with%20a%20less%20than%20Daily%20Nutritional%20Index.png)
+![Figure 5. Odds Ratio Table for Coronary Heart Disease in NonSmoking nonDiabetics with a less than Monthly Physical Activity Index](docs/figures/Figure%205.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmoking%20nonDiabetics%20with%20a%20less%20than%20Monthly%20Physical%20Activity%20Index.png)
+
 
 ## 📘 How to Run the Project (for reviewers)
 1. Clone the repo
