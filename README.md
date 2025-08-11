@@ -72,7 +72,7 @@ This doctorate-level public health project uses data from the 2021 Behavioral Ri
 - Add interaction effects and multivariate models
 - Analyze other predictors: mental health, sleep, BMI
 
-## 🔗 Portfolio & Contact
+## Portfolio & Contact
 Portfolio: [github.com/janajames15](https://github.com/janajames15)  
 Email: [janajames15@gmail.com]  
 LinkedIn: [https://www.linkedin.com/in/jana-james-b0422663/](https://www.linkedin.com/in/jana-james-b0422663/)
