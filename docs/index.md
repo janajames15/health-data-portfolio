@@ -55,12 +55,12 @@ README.md # Project summary and navigation
 ## Visuals & Figures
 _Figures available in_ `/docs/figures/`
 
-![Table 1. Variables and Methods](docs/figures/Table%201.%20Variables%20and%20Methods.png)  
-![Figure 1. Odds Ratio Table – NonSmokers](docs/figures/Figure%201.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmokers.png)  
-![Figure 2. Odds Ratio Table – NonSmokers without Diabetes](docs/figures/Figure%202.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Diseasein%20NonSmokers%20without%20Diabetes.png)  
-![Figure 3. Odds Ratio Table – NonSmokers with Diabetes](docs/figures/Figure%203.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmokers%20with%20Diabetes.png)  
-![Figure 4. Odds Ratio Table – Low Nutrition Index](docs/figures/Figure%204.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmoking%20nonDiabetics%20with%20a%20less%20than%20Daily%20Nutritional%20Index.png)  
-![Figure 5. Odds Ratio Table – Low Physical Activity Index](docs/figures/Figure%205.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmoking%20nonDiabetics%20with%20a%20less%20than%20Monthly%20Physical%20Activity%20Index.png)
+![Table 1. Variables and Methods](figures/Table%201.%20Variables%20and%20Methods.png)  
+![Figure 1. Odds Ratio Table – NonSmokers](figures/Figure%201.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmokers.png)  
+![Figure 2. Odds Ratio Table – NonSmokers without Diabetes](figures/Figure%202.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Diseasein%20NonSmokers%20without%20Diabetes.png)  
+![Figure 3. Odds Ratio Table – NonSmokers with Diabetes](figures/Figure%203.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmokers%20with%20Diabetes.png)  
+![Figure 4. Odds Ratio Table – Low Nutrition Index](figures/Figure%204.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmoking%20nonDiabetics%20with%20a%20less%20than%20Daily%20Nutritional%20Index.png)  
+![Figure 5. Odds Ratio Table – Low Physical Activity Index](figures/Figure%205.%20Odds%20Ratio%20Table%20for%20Coronary%20Heart%20Disease%20in%20NonSmoking%20nonDiabetics%20with%20a%20less%20than%20Monthly%20Physical%20Activity%20Index.png)
 
 ---
 
